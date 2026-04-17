@@ -27,6 +27,9 @@ https://public.tableau.com/app/profile/yedjoyety.soro/viz/Assignment_WealthbyCou
 
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
+<img width="982" height="586" alt="Screenshot 2026-04-16 at 21 08 59" src="https://github.com/user-attachments/assets/ec892ac7-c2f7-47fa-9540-5002705b8be1" />
+
+
 ---
 
 ## Tools & Technologies
