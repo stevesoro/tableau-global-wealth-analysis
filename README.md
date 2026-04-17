@@ -45,4 +45,13 @@ https://public.tableau.com/app/profile/yedjoyety.soro/viz/Assignment_WealthbyCou
 ---
 
 ## About Me
-Data Analyst with a strong focus on transforming data into actionable insights using tools such as Power BI and Tableau.
+
+**Steve Soro**  
+Bilingual Data Analyst<br>Actuarial & BI  
+SQL • Python • Power BI • R  
+
+---
+
+## Contact
+
+N’hésitez pas à me contacter pour échanger ou collaborer sur des projets similaires.
