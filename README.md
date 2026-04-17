@@ -1,4 +1,4 @@
-# Global Wealth Analysis Dashboard (Tableau)
+# Global Wealth Analysis Visual (Tableau)
 
 ## Overview
 This project explores wealth distribution across countries in 2019.  
@@ -23,9 +23,7 @@ https://public.tableau.com/app/profile/yedjoyety.soro/viz/Assignment_WealthbyCou
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Overview](screenshots/dashboard-overview.png)
+## Visual Preview
 
 <img width="982" height="586" alt="Screenshot 2026-04-16 at 21 08 59" src="https://github.com/user-attachments/assets/ec892ac7-c2f7-47fa-9540-5002705b8be1" />
 
